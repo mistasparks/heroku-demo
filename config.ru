@@ -1,2 +1,2 @@
-require './srv'
-run BbvaSrv
+require './application'
+run Sinatra::Application
